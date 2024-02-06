@@ -34,6 +34,7 @@ body{
     position: relative;
     height: 100vh;
     transition: 1s;
+    overflow-x: hidden;
 }
 
 h1{
