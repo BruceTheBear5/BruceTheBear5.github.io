@@ -1,3 +1,3 @@
 # personal-website
 
-## Welcome to Bruce' personal website and blog (tbd). There's no backend here yet, but I hope you like the design.
+## Welcome to Bruce's personal website and blog (tbd). There's no backend here yet, but I hope you like the design.
